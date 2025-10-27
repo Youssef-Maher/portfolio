@@ -1043,17 +1043,14 @@ section,
   letter-spacing: 0.5px;
 }
 
-.projects
-  .projects-card
-  .projects-image-container
-  .projects-overlay
   .projects-info
   h4 {
   color: white;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
-  margin: 0;
+  margin: 18px 5px;
   line-height: 1.3;
+  color: white;
 }
 
 .projects
