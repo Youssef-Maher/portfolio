@@ -910,8 +910,12 @@ section,
 }
 @media (max-width: 768px) {
   .technologies .technologie-item {
-    padding: 30px 20px;
+    padding: 20px 10px;
     margin-bottom: 20px;
+  }
+  .technologies .tech-card {
+    padding: 0px 6px;
+    
   }
 
   .technologies .icon-wrapper {
