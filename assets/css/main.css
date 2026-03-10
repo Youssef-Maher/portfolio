@@ -765,7 +765,6 @@ section,
 --------------------------------------------------------------*/
 .hero {
   padding-top: 80px;
-  min-height: 100vh;
   position: relative;
   display: flex;
   align-items: center;
